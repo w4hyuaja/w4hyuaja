@@ -57,13 +57,6 @@ Aplikasi web interaktif (*single-page*) untuk pembuatan modul ajar otomatis, ase
 </details>
 
 <details>
-<summary><b>🤖 Gendhis Portable</b></summary>
-<p>
-Platform bantu berbasis AI untuk menyederhanakan penyusunan dan pengorganisasian dokumen administrasi guru secara cepat dan tersistem.
-</p>
-</details>
-
-<details>
 <summary><b>⚖️ NikahLab</b></summary>
 <p>
 Aplikasi simulasi interaktif ruang kelas untuk pemetaan silsilah, studi kasus, dan analisis fikih munakahat dalam pembelajaran agama.
