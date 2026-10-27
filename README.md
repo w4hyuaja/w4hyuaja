@@ -68,22 +68,17 @@ Aplikasi simulasi interaktif ruang kelas untuk pemetaan silsilah, studi kasus, d
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=w4hyuaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4hyuaja&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=w4hyuaja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=w4hyuaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4hyuaja&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+  <br /><br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=w4hyuaja&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+
 </div>
+
+<br />
 
 <!-- Animasi Garis Pembatas / Gelombang Bawah -->
 <div align="center">
