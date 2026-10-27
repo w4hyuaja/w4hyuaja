@@ -68,21 +68,6 @@ Aplikasi simulasi interaktif ruang kelas untuk pemetaan silsilah, studi kasus, d
 
 ---
 
-### 📊 GitHub Stats & Metrics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=w4hyuaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&height=150" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4hyuaja&layout=compact&theme=tokyonight&hide_border=true&height=150" alt="Top Languages" width="45%" />
-
-  <br /><br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=w4hyuaja&theme=tokyonight&hide_border=true&height=150" alt="GitHub Streak" width="92%" />
-
-</div>
-
-<br />
-
 <!-- Animasi Garis Pembatas / Gelombang Bawah -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" />
