@@ -26,5 +26,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghprofile/?username=wahyudi&color=blueviolet&style=flat-square" alt="Profile Views" />
+ // <img src="https://komarev.com/ghprofile/?username=wahyudi&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
