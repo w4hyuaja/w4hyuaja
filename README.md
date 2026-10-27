@@ -1,17 +1,13 @@
 <div align="center">
 
   <!-- Banner Teks Bergerak / Animasi Ketik -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC¢er=true&vCenter=true&width=600&height=60&lines=Hi+There%2C+I'm+Wahyudi+👋;Educator+%26+Full-Stack+Developer;Building+EdTech+Solutions+%26+PWA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=60&lines=Hi+There%2C+I'm+Wahyudi+👋;Educator+%26+Full-Stack+Developer;Building+EdTech+Solutions+%26+PWA" alt="Typing SVG" />
 
   <p><strong>Educator | Full-Stack Software Developer | EdTech Innovator</strong></p>
 
   <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20EdTech-6f42c1?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Location-Palembang%2C%20Indonesia-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    </a>
+    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20EdTech-6f42c1?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Location-Palembang%2C%20Indonesia-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
 </div>
@@ -57,6 +53,13 @@ Aplikasi web interaktif (*single-page*) untuk pembuatan modul ajar otomatis, ase
 </details>
 
 <details>
+<summary><b>🤖 Gendhis Portable</b></summary>
+<p>
+Platform bantu berbasis AI untuk menyederhanakan penyusunan dan pengorganisasian dokumen administrasi guru secara cepat dan tersistem.
+</p>
+</details>
+
+<details>
 <summary><b>⚖️ NikahLab</b></summary>
 <p>
 Aplikasi simulasi interaktif ruang kelas untuk pemetaan silsilah, studi kasus, dan analisis fikih munakahat dalam pembelajaran agama.
@@ -82,5 +85,5 @@ Aplikasi simulasi interaktif ruang kelas untuk pemetaan silsilah, studi kasus, d
 
 <!-- Animasi Garis Pembatas / Gelombang Bawah -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100§ion=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
