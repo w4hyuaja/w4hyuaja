@@ -24,7 +24,4 @@
 * **NikahLab:** Interactive single-page web application for classroom simulation and case-study analysis of marriage jurisprudence.
 
 ---
-
-<p align="center">
- // <img src="https://komarev.com/ghprofile/?username=wahyudi&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
